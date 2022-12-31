@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying informatics 👨‍💻 <br>-Faculty of Management Science and Informatics | FRI UNIZA<br><br>Besides that, I have an internship job 🏬<br>-Software Test Engineer | DESCARTES<br><br>And heading for a Master's degree ⚕️<br>-Biomedical Infomarmatics | FRI UNIZA
+###I'm currently studying informatics 👨‍💻 <br>-Faculty of Management Science and Informatics | FRI UNIZA<br><br>Besides that, ###I have an internship job 🏬<br>-Software Test Engineer | DESCARTES<br><br>###And heading for a Master's degree ⚕️<br>-Biomedical Infomarmatics | FRI UNIZA
 
 
 ## 🌐 Socials:
