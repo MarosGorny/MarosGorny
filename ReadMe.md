@@ -1,5 +1,7 @@
 # 💫 About Me:
-**I'm currently studying Biomedical Informatics** 👨‍💻 <br>-Faculty of Management Science and Informatics | FRI UNIZA<br><br>Besides that, **I have an internship job** 🏬<br>-Software Developer Engineer | DESCARTES<br>
+**I'm currently studying Biomedical Informatics** 👨‍💻 <br>-Faculty of Management Science and Informatics | FRI UNIZA
+<br><br> And working on my diploma thesis in Japan, Toyohashi 🇯🇵
+<br>-Toyohashi University of Technology | TUT
 
 
 ## 🌐 Socials:
