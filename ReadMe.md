@@ -1,7 +1,11 @@
 # 💫 About Me:
-**I'm currently studying Biomedical Informatics** 👨‍💻 <br>-Faculty of Management Science and Informatics | FRI UNIZA
-<br><br> And working on my diploma thesis in Japan, Toyohashi 🇯🇵
-<br>-Toyohashi University of Technology | TUT
+🌱 **Exploring what truly feels meaningful**  
+Learning. Building. Becoming.
+
+🎓 MSc in Computer Science — University of Žilina (UNIZA), Slovakia  
+🇯🇵 Master’s thesis developed at Toyohashi University of Technology (TUT), Japan  
+🎵 Driven by music, investing, sport, self-growth, and new ways of seeing the world
+
 
 
 ## 🌐 Socials:
